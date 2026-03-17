@@ -22,7 +22,7 @@
 
 // let preco_desconto = preco_original * 0.90
 
-// alert('O preço do produto com desconto é R$' + preco_desconto)v]
+// alert('O preço do produto com desconto é R$' + preco_desconto)
 
 // exercicio 4
 
