@@ -1,2 +1,2 @@
 # git_repositorio
-sim
+grupo: Gustavo Camargo, Cesar Colmenarez, Davi Braga.
