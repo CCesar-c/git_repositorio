@@ -24,33 +24,6 @@
 
 // alert('O preço do produto com desconto é R$' + preco_desconto)v]
 
-//Atividade 7
-// let estoque = 120;
-// let total_vendido = Number(prompt('Quanto você vendeu hoje?'));
-// let total_estoque = estoque - total_vendido;
-
-// if (total_vendido > total_estoque) {
-//     alert("erro ao verificar (estoque) - (total_vendido)")
-// }
-// else{
-//     alert('Estoque restante : ' + total_estoque);
-// };
-
-//Atividade 8
-// let preco_atual = Number(prompt("Valor do produto :"));
-// let preco_novo = preco_atual * 1.15;
-// let diferença_valor = preco_novo - preco_atual;
-
-// alert("Valores após reajuste :" + preco_atual + preco_novo + diferença_valor);
-
-//Atividade 9
-// let valor_compra = number(prompt("Valor da compra :"));
-// let valor_parcela = valor_compra / parcela;
-// let parcela = number(prompt("Parcelar em quantas vezes :"));
-
-// alert("Valor final :" + valor_compra + parcela + valor_parcela);
-
-
 // exercicio 4
 
 // let meses = prompt("Insira o valor de meses")
@@ -88,6 +61,35 @@
 // }
 // console.log("Venda dessa semana:" + valor_diario);
 // console.log("Venda media dessa semana:" + (valor_diario / 7).toFixed(2));
+
+//Atividade 7
+// let estoque = 120;
+// let total_vendido = Number(prompt('Quanto você vendeu hoje?'));
+// let total_estoque = estoque - total_vendido;
+
+// if (total_vendido > total_estoque) {
+//     alert("erro ao verificar (estoque) - (total_vendido)")
+// }
+// else{
+//     alert('Estoque restante : ' + total_estoque);
+// };
+
+//Atividade 8
+// let preco_atual = Number(prompt("Valor do produto :"));
+// let preco_novo = preco_atual * 1.15;
+// let diferença_valor = preco_novo - preco_atual;
+
+// alert("Valores após reajuste :" + preco_atual + preco_novo + diferença_valor);
+
+//Atividade 9
+// let valor_compra = number(prompt("Valor da compra :"));
+// let valor_parcela = valor_compra / parcela;
+// let parcela = number(prompt("Parcelar em quantas vezes :"));
+
+// alert("Valor final :" + valor_compra + parcela + valor_parcela);
+
+
+
 // Atividade 10
 
 // let investimento_inicial = prompt('Qual o valor do investimento inicial?')
